@@ -1,0 +1,14 @@
+Tamanho da janela de simulacao sugerida:
+800 800
+
+Localizacao das ilhas:
+
+Triangulo Point(25,75)
+Circulo Point(25,25)
+Circulo Point(75,75)
+Quadrado Point(75,25)
+Cruz Point(50,50) 
+
+Localizacao do cais:
+Cais1 Rectangle (Point(0,0) Point(15,5))
+Cais2 Rectangle (Point(0,5) Point(5,15))
